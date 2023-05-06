@@ -1,0 +1,2 @@
+delay.c:12:6:delay_us	40	static
+delay.c:43:6:for_delay_us	24	static,ignoring_inline_asm

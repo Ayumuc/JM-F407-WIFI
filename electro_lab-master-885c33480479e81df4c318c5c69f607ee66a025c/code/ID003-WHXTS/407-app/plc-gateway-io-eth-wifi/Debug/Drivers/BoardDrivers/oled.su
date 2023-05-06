@@ -1,0 +1,9 @@
+oled.c:63:6:OLED_WrDat	24	static
+oled.c:80:6:OLED_WrCmd	24	static
+oled.c:100:6:OLED_Set_Pos	16	static
+oled.c:107:6:OLED_Fill	24	static
+oled.c:121:6:OLED_DLY_ms	24	static
+oled.c:136:6:initOled	8	static
+oled.c:144:6:init_iic	8	static
+oled.c:152:6:setContrast	16	static
+oled.c:164:6:OLED_P8x16Str	24	static

@@ -1,0 +1,4 @@
+modbusTcp.c:48:13:floatToByte	24	static
+modbusTcp.c:58:16:getFloatBytes	16	static
+modbusTcp.c:68:10:writedata_to_flash	32	static
+modbusTcp.c:117:10:parseModbusCommand	64	static

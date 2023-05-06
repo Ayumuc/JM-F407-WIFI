@@ -1,0 +1,10 @@
+ring_fifo.c:22:24:is_pow_of_2	16	static
+ring_fifo.c:28:24:pow2gt	16	static
+ring_fifo.c:41:22:ring_fifo_init	32	static
+ring_fifo.c:88:6:ring_fifo_destroy	16	static
+ring_fifo.c:99:10:ring_fifo_write	48	static
+ring_fifo.c:135:10:ring_fifo_read	48	static
+ring_fifo.c:171:10:ring_fifo_is_full	16	static
+ring_fifo.c:176:10:ring_fifo_is_empty	16	static
+ring_fifo.c:181:10:ring_fifo_avail	16	static
+ring_fifo.c:186:10:ring_fifo_count	16	static

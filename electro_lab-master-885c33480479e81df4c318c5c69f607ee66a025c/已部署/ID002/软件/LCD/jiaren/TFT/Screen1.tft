@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <tft>
+    <TFTFile>Screen1.tft</TFTFile>
+    <BmpName>back.png</BmpName>
+    <PageNum>0</PageNum>
+    <PageColor R="255" G="255" B="255" />
+  </tft>
+  <Graphics>
+    <Graphic ControlType="DataVar" ConNum="1" Name="DataVar" X="77" Y="127" Wide="75" Hight="30" SP="FFFF" VP="0010" R="255" G="255" B="255" Font_ID="0" Font_Size="14" Font_Align="2" Var_Type="0" Integer_Length="2" Decimal_Length="2" Len_unit="0" String_Uint="" Initial_Value="0" />
+    <Graphic ControlType="DataVar" ConNum="2" Name="DataVar" X="77" Y="180" Wide="75" Hight="30" SP="FFFF" VP="0011" R="255" G="255" B="255" Font_ID="0" Font_Size="14" Font_Align="2" Var_Type="0" Integer_Length="2" Decimal_Length="2" Len_unit="0" String_Uint="" Initial_Value="0" />
+    <Graphic ControlType="DataVar" ConNum="3" Name="DataVar" X="77" Y="231" Wide="75" Hight="30" SP="FFFF" VP="0012" R="255" G="255" B="255" Font_ID="0" Font_Size="14" Font_Align="2" Var_Type="0" Integer_Length="2" Decimal_Length="2" Len_unit="0" String_Uint="" Initial_Value="0" />
+    <Graphic ControlType="DataVar" ConNum="4" Name="DataVar" X="252" Y="127" Wide="75" Hight="30" SP="FFFF" VP="0013" R="255" G="255" B="255" Font_ID="0" Font_Size="14" Font_Align="2" Var_Type="0" Integer_Length="2" Decimal_Length="2" Len_unit="0" String_Uint="" Initial_Value="0" />
+    <Graphic ControlType="DataVar" ConNum="5" Name="DataVar" X="252" Y="180" Wide="75" Hight="30" SP="FFFF" VP="0014" R="255" G="255" B="255" Font_ID="0" Font_Size="14" Font_Align="2" Var_Type="0" Integer_Length="2" Decimal_Length="2" Len_unit="0" String_Uint="" Initial_Value="0" />
+    <Graphic ControlType="DataVar" ConNum="6" Name="DataVar" X="252" Y="231" Wide="75" Hight="30" SP="FFFF" VP="0015" R="255" G="255" B="255" Font_ID="0" Font_Size="14" Font_Align="2" Var_Type="0" Integer_Length="2" Decimal_Length="2" Len_unit="0" String_Uint="" Initial_Value="0" />
+    <Graphic ControlType="IconVar" ConNum="7" Name="IconVar" X="389" Y="80" Wide="94" Hight="120" SP="FFFF" VP="0020" IconFile="2bat.ICO" V_Min="1" V_Max="21" Icon_Min="1" Icon_Max="21" View_Mode="0" Start_Value="21" />
+    <Graphic ControlType="IconVar" ConNum="8" Name="IconVar" X="490" Y="80" Wide="124" Hight="56" SP="FFFF" VP="0021" IconFile="4wifi.ICO" V_Min="1" V_Max="2" Icon_Min="1" Icon_Max="2" View_Mode="0" Start_Value="1" />
+    <Graphic ControlType="IconVar" ConNum="9" Name="IconVar" X="490" Y="143" Wide="124" Hight="56" SP="FFFF" VP="0022" IconFile="3signal.ICO" V_Min="1" V_Max="2" Icon_Min="1" Icon_Max="2" View_Mode="0" Start_Value="1" />
+    <Graphic ControlType="IconVar" ConNum="10" Name="IconVar" X="34" Y="322" Wide="326" Hight="134" SP="FFFF" VP="0023" IconFile="1user.ICO" V_Min="1" V_Max="3" Icon_Min="1" Icon_Max="3" View_Mode="0" Start_Value="1" />
+    <Graphic ControlType="RealClock" ConNum="11" Name="RealClock" X="3" Y="20" Wide="250" Hight="25" SP="FFFF" R="255" G="255" B="255" Lib_ID="0" Font_X_Dots="12" String_Code="Y-M-D H:Q:S" />
+    <Graphic ControlType="TextView" ConNum="12" Name="TextView" X="483" Y="21" Wide="140" Hight="20" SP="FFFF" VP="0109" R="255" G="255" B="255" Text_length="20" Font0_ID="0" Font1_ID="0" Font_X_Dots="10" Font_Y_Dots="20" Encode_Mode="0" AutoAdjuestCharSpace="True" HOR_Dis="0" VER_Dis="0" initial_value="44221231001" Font_Alignment="0" />
+    <Graphic ControlType="TextView" ConNum="13" Name="TextView" X="468" Y="212" Wide="150" Hight="20" SP="FFFF" VP="0100" R="255" G="255" B="255" Text_length="12" Font0_ID="0" Font1_ID="0" Font_X_Dots="10" Font_Y_Dots="20" Encode_Mode="0" AutoAdjuestCharSpace="True" HOR_Dis="0" VER_Dis="0" initial_value="2022-12-30" Font_Alignment="0" />
+    <Graphic ControlType="TextView" ConNum="14" Name="TextView" X="468" Y="242" Wide="150" Hight="20" SP="FFFF" VP="0106" R="255" G="255" B="255" Text_length="6" Font0_ID="0" Font1_ID="0" Font_X_Dots="10" Font_Y_Dots="20" Encode_Mode="0" AutoAdjuestCharSpace="True" HOR_Dis="0" VER_Dis="0" initial_value="V1.0" Font_Alignment="0" />
+    <Graphic ControlType="QRCode" ConNum="15" Name="QRCode" X="424" Y="320" Wide="150" Hight="150" SP="FFFF" VP="0109" UnitPixels="3" />
+  </Graphics>
+</root>

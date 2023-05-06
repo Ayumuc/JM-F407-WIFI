@@ -1,0 +1,2 @@
+freertos.c:60:6:vApplicationIdleHook	4	static
+freertos.c:75:6:vApplicationTickHook	4	static

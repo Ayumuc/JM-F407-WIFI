@@ -1,0 +1,3 @@
+DigitIO.c:8:15:readDigitInputStatus	16	static
+DigitIO.c:34:15:readDigitOutputStatus	16	static
+DigitIO.c:60:6:writeDigitOutputStatus	16	static

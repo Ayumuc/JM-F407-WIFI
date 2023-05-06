@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TGUS>
+  <Hardware_Setup ProjectName="jiaren" Version="2.0 Beta" DeviceID="0" StartupPage="Screen1.tft" WIDTH="640" HEIGHT="480" DisplayscaleNumSelect="1" R0="10" R1="07" R2="0C" R3="5A" R5="00" R6="00" R7="00" R8="00" R9="00" RA="A5" RH="00" />
+  <tft>
+    <tftFile>Screen1.tft</tftFile>
+  </tft>
+</TGUS>

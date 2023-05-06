@@ -1,0 +1,8 @@
+tftp_example.c:60:1:tftp_open_file	24	static
+tftp_example.c:73:1:tftp_open	24	static
+tftp_example.c:80:1:tftp_close	16	static
+tftp_example.c:86:1:tftp_read	32	static
+tftp_example.c:96:1:tftp_write	16	static
+tftp_example.c:110:1:tftp_error	128	static
+tftp_example.c:131:1:tftp_example_init_server	8	static
+tftp_example.c:139:1:tftp_example_init_client	32	static

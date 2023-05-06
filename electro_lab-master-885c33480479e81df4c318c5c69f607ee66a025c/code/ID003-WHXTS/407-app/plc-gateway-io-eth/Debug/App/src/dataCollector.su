@@ -1,0 +1,7 @@
+dataCollector.c:32:9:getAnalogValues	4	static
+dataCollector.c:37:6:floatToByte	24	static
+dataCollector.c:48:16:getAnalogValueBytes	16	static
+dataCollector.c:66:6:initDataCollector	16	static
+dataCollector.c:77:8:getChannelValue	56	static
+dataCollector.c:125:6:collectDataHandler	40	static
+dataCollector.c:139:7:Key_Start_Stop	24	static

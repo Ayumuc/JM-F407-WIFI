@@ -1,0 +1,5 @@
+dataFilter.c:3:6:simpleQueueInit	24	static
+dataFilter.c:13:6:simpleQueueEnQueue	16	static
+dataFilter.c:22:6:QuickSort	40	static
+dataFilter.c:57:6:copyQueue	32	static
+dataFilter.c:68:5:enQueueAndCalcAverage	24	static

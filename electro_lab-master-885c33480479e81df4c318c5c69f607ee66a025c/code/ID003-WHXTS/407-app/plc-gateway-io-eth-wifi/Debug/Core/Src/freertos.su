@@ -1,0 +1,6 @@
+freertos.c:125:6:MX_FREERTOS_Init	8	static
+freertos.c:160:22:isConfigMode	16	static
+freertos.c:171:13:configMode	8	static
+freertos.c:213:6:StartupTask	32	static
+freertos.c:324:6:daemonTask	16	static
+freertos.c:361:6:taskHeapDetectTask	40	static

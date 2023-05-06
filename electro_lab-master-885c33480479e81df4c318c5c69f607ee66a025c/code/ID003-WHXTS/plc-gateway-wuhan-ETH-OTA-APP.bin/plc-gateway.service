@@ -1,0 +1,22 @@
+[Unit]
+Description=plc-gateway
+After=network.target syslog.target
+Wants=network.target
+
+[Service]
+# Modify these two values and uncomment them if you have
+# repos with lots of files and get an HTTP error 500 because
+# of that
+###
+#LimitMEMLOCK=infinity
+#LimitNOFILE=65535
+Type=simple
+User=root
+Group=root
+ExecStart=/home/firefly/plc-gateway/bin/plc-gateway
+WorkingDirectory=/home/firefly/plc-gateway/bin/
+Restart=always
+RestartSec=10s
+
+[Install]
+WantedBy=multi-user.target

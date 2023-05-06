@@ -1,0 +1,8 @@
+ring_fifo.c:41:22:ring_fifo_init	24	static
+ring_fifo.c:88:6:ring_fifo_destroy	8	static
+ring_fifo.c:99:10:ring_fifo_write	24	static
+ring_fifo.c:135:10:ring_fifo_read	24	static
+ring_fifo.c:171:10:ring_fifo_is_full	0	static
+ring_fifo.c:176:10:ring_fifo_is_empty	0	static
+ring_fifo.c:181:10:ring_fifo_avail	0	static
+ring_fifo.c:186:10:ring_fifo_count	0	static

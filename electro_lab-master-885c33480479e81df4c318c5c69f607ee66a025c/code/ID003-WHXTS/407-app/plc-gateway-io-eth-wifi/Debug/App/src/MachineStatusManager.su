@@ -1,0 +1,2 @@
+MachineStatusManager.c:29:6:printConfig	64	static
+MachineStatusManager.c:53:6:initMachineStatus	48	static

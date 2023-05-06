@@ -1,0 +1,3 @@
+MCP3208.c:24:6:initMCP	8	static
+MCP3208.c:29:7:delay	24	static
+MCP3208.c:46:5:mcpSample	24	static

@@ -1,0 +1,12 @@
+flash.c:29:6:Delay_US	24	static
+flash.c:51:6:STM32FLASH_Unlock	4	static
+flash.c:70:6:STM32FLASH_Lock	4	static
+flash.c:89:19:STM32FLASH_GetStatus	16	static
+flash.c:114:19:STM32FLASH_WaitDone	24	static
+flash.c:145:19:STM32FLASH_EraseSector	24	static,ignoring_inline_asm
+flash.c:187:19:STM32FLASH_WriteWord	24	static
+flash.c:220:10:STM32FLASH_ReadWord	16	static
+flash.c:237:9:STM32FLASH_GetFlashSector	16	static
+flash.c:265:19:STM32FLASH_Write_NoCheck	32	static,ignoring_inline_asm
+flash.c:301:19:STM32FLASH_Write	40	static,ignoring_inline_asm
+flash.c:360:10:STM32FLASH_Read	40	static

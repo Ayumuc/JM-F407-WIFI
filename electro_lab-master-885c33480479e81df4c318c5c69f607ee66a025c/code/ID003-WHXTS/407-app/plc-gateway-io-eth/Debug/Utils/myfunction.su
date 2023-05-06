@@ -1,0 +1,9 @@
+myfunction.c:13:6:str2hex	40	static
+myfunction.c:33:15:BCD_Decimal	24	static
+myfunction.c:40:6:decimal_bcd_code	24	static
+myfunction.c:63:1:mini_strlen	24	static
+myfunction.c:71:1:mini_itoa	48	static
+myfunction.c:120:1:_putc	16	static
+myfunction.c:130:1:_puts	32	static
+myfunction.c:146:1:mini_vsnprintf	80	static
+myfunction.c:215:1:mini_snprintf	24	static
